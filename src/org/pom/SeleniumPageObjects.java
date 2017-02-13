@@ -7,6 +7,10 @@ import org.openqa.selenium.support.PageFactory;
 
 public class SeleniumPageObjects {
 	
+		public SeleniumPageObjects(){
+			
+		}
+	
 	//GoogleHomePageObjects - Konstruktor koji inicijalizuje moje objekte na strani
 		public SeleniumPageObjects(WebDriver driver){
 			PageFactory.initElements(driver, this);	

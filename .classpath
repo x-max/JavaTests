@@ -4,5 +4,6 @@
 	<classpathentry kind="lib" path="C:/Users/806590/Downloads/selenium-java-3.0.1/client-combined-3.0.1-nodeps.jar" sourcepath="C:/Users/806590/Downloads/selenium-java-3.0.1/client-combined-3.0.1-nodeps.jar"/>
 	<classpathentry kind="lib" path="C:/Users/806590/Downloads/selenium-server-standalone-3.0.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/806590/Downloads/jexcelapi_2_6_12/jexcelapi/jxl.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

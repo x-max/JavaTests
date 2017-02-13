@@ -29,8 +29,9 @@ public class GoogleHomePageObjects {
 				btnSearch.click();
 	}
 	
-	public void ClickSelenium(){
+	public SeleniumPageObjects ClickSelenium(){
 		lnkSelenium.click();
+		return new SeleniumPageObjects();
 	}
 	
 	
